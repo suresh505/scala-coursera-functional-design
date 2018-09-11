@@ -1,0 +1,6 @@
+[0m[[0minfo[0m] [0m+ Heap.Find minimum after adding an element to empty heap: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.Adding two elements to an empty heap and finding minimum: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.Adding an element to an empty heap and then deleting it: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.Finding the minimum after meldling two heaps: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.Creating a list from a heap: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.Associative: OK, passed 100 tests.[0m
